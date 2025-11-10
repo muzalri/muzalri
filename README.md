@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Saya **Muhammad Zaki Algifari**, seorang **Junior Developer di FRB Technology** dan mahasiswa **Software Engineering (TRPL)** yang passionate dalam mengubah ide menjadi sistem yang berfungsi.
+Saya **Muhammad Zaki Algifari**, seorang mahasiswa **Software Engineering (TRPL)** yang passionate dalam mengubah ide menjadi sistem yang berfungsi.
 
 🎯 **Current Focus:**
 - 🔙 **Back-End Development** dengan Node.js & Express
