@@ -198,13 +198,20 @@ Ubuntu server management
 
 ```javascript
 const currentFocus = {
-  🚀 development: "Perkasa mobile app for fish farming entrepreneurs",
-  🤖 ai_projects: "YOLO models for waste & agricultural disease detection",
-  🧩 fullstack: "Donation platform with Express + React + Midtrans",
-  🌱 learning: ["AI model deployment", "Server administration", "LaTeX"],
-  ☕ brewing: "New ideas every day at MasBrew"
+  development: "Perkasa mobile app for fish farming entrepreneurs",
+  ai_projects: "YOLO models for waste & agricultural disease detection",
+  fullstack: "Donation platform with Express + React + Midtrans",
+  learning: ["AI model deployment", "Server administration", "LaTeX"],
+  brewing: "New ideas every day at MasBrew"
 };
 ```
+
+**🎯 Current Projects:**
+- 🚀 **Development**: Perkasa mobile app for fish farming entrepreneurs
+- 🤖 **AI Projects**: YOLO models for waste & agricultural disease detection
+- 🧩 **Full-Stack**: Donation platform with Express + React + Midtrans
+- 🌱 **Learning**: AI model deployment, Server administration, LaTeX
+- ☕ **Brewing**: New ideas every day at MasBrew
 
 <details>
 <summary>📅 <b>This Week's Highlights</b></summary>
