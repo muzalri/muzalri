@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Zaki Algifari</h1>
-<h3 align="center">💻 Junior Developer | ☕ Founder of MasBrew | 🎓 Software Engineering Student</h3>
+<h3 align="center">💻 Junior Developer | ☕ Co Founder of MasBrew | 🎓 Software Engineering Student</h3>
 
 ---
 
