@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  ### 💻 Junior Developer | ☕ Founder of MasBrew | 🎓 Software Engineering Student
+  ### 💻 Junior Developer | ☕ Co-Founder of MasBrew | 🎓 Software Engineering Student
   
   **Backend Development** • **AI Integration** • **Problem Solver**
   
