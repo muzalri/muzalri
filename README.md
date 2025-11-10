@@ -196,16 +196,6 @@ Ubuntu server management
 
 ## 🧠 What I'm Currently Working On
 
-```javascript
-const currentFocus = {
-  development: "Perkasa mobile app for fish farming entrepreneurs",
-  ai_projects: "YOLO models for waste & agricultural disease detection",
-  fullstack: "Donation platform with Express + React + Midtrans",
-  learning: ["AI model deployment", "Server administration", "LaTeX"],
-  brewing: "New ideas every day at MasBrew"
-};
-```
-
 **🎯 Current Projects:**
 - 🚀 **Development**: Perkasa mobile app for fish farming entrepreneurs
 - 🤖 **AI Projects**: YOLO models for waste & agricultural disease detection
