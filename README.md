@@ -97,7 +97,7 @@ Bersama, **MasBrew** merepresentasikan pendekatan saya dalam development:
 <td width="50%">
 
 ### 🐟 Perkasa - Fish Farming App
-[![Status](https://img.shields.io/badge/Status-In_Development-yellow)](https://github.com/muzalri)
+[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/muzalri/perkasa-1)
 
 **Mobile app untuk memulai bisnis budidaya ikan**
 
